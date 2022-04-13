@@ -1,4 +1,5 @@
 /* Set the scroll behavior to smooth so that when you click the in the header, the screen scrolls down rather than jumps */
+
 html {
   scroll-behavior: smooth;
 }
@@ -8,13 +9,13 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #ffa500;
+  background-color: #006d77;
   text-align: left;
 /*  min-width: 500px; */
 }
 
 header {
-  font-family: Work Sans;
+  font-family: 'Merriweather', serif;
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -33,7 +34,7 @@ main {
 }
 
 h1 {
-  font-family: Poppins;
+  font-family: 'Lora', serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -41,7 +42,7 @@ h1 {
 }
 
 h2 {
-  font-family: Poppins;
+  font-family: 'Lora', serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -87,7 +88,7 @@ img {
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color: rgba(0,0,0,.25);
 }
 
 .myButton:active {
@@ -101,7 +102,7 @@ img {
 }
 
 .a {
-
+color: #00b09b;
 }
 
 .c {
@@ -117,7 +118,7 @@ img {
 
 .mins {
   display: inline-block;
-  font-family: Poppins;
+  font-family: 'Lora', serif;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
@@ -128,8 +129,8 @@ img {
 }
 
 .description {
-  font-family: Work Sans;
-  font-size: 14px;
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
