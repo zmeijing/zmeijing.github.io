@@ -165,8 +165,26 @@ footer div {
   font-size: 14px;
   display: flex;
   align-content: center;
+  justify-content: space-between;
   padding: 10px 20px;
   color: rgba(255, 255, 255, 0.5);
+}
+.copyright {
+  margin: auto 0;
+}
+
+.icons {
+  list-style-type: none;
+  display: inline-flex;
+}
+
+.icons a {
+  margin: 0 8px;
+  color: rgb(255, 255, 255, 0.5);
+}
+
+.icons a:hover {
+  color: rgb(255, 255, 255, 0.8);
 }
 @media all and (max-width:700px) {
   main {
