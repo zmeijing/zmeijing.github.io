@@ -18,7 +18,7 @@ header, footer {
 }
 
 header {
-  font-family: 'Lora', serif;
+  font-family: 'Fuzzy Bubbles', cursive;
   color: #ffe6e6;
   min-height: 100vh;
   display: flex;
@@ -36,7 +36,7 @@ main {
 }
 
 h1 {
-  font-family: 'Lora', serif;
+  font-family: 'Fuzzy Bubbles', cursive;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -44,7 +44,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Lora', serif;
+  font-family: 'Red Hat Display', sans-serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -70,7 +70,7 @@ img {
 .bio {
   color: #ffffff;
   font-size: 24px;
-  font-family: 'Merriweather', serif;
+  font-family: 'Fuzzy Bubbles', cursive;
 }
 
 .buttonBox {
@@ -107,7 +107,7 @@ img {
 
 
 .description {
-  font-family: 'Merriweather', serif;
+  font-family: 'Red Hat Display', sans-serif;
   font-size: 16px;
   font-weight: 300;
   line-height: 1.29;
@@ -129,7 +129,7 @@ a {
 
 footer div {
   height: 100%;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Fuzzy Bubbles', cursive;
   font-size: 14px;
   display: flex;
   align-content: center;
